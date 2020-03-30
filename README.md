@@ -22,3 +22,6 @@
 2. Show (filter) Active
 3. Show (filter) Completed
 4. Show the current todo count 
+
+## Run
+`$ serve ./`
