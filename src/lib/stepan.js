@@ -24,6 +24,10 @@ export default class Stepan {
 
   static Component = class {
     constructor(parent) {
+
+      // TODO: 1. Create StepanError class to define all framework errors
+      //       2. throw an error if parent is null or undefined, or if it's not a valid DOM object
+
       this.parent = parent;
     }
   }

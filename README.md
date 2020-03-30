@@ -25,3 +25,6 @@
 
 ## Run
 `$ serve ./`
+
+## Ideas
+1. Implement templating language like: http://slim-lang.com/
